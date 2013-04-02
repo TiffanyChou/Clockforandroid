@@ -1,0 +1,20 @@
+body{
+	width: 320px;
+	height: 480px;
+	background-color: black;
+/* 	background: -webkit-gradient(linear, left top, left bottom,) */
+	
+}
+#clock{
+	position: absolute;
+	left:0px;
+	top: 50%;
+	width: 100%;
+	font-size: 40pt;
+	font-family: verdana;
+	font-weight: bold;
+	color:white;
+	text-align: center;
+	text-shadow: 2px 2px 7px #50b010;
+	
+}
